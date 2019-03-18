@@ -1,4 +1,4 @@
-
+// cordial
 if (typeof String.prototype.startsWith !== 'function') {
   String.prototype.startsWith = function (str){
   	'use strict';
